@@ -104,7 +104,7 @@ Get your free API key from 👉 [console.groq.com](https://console.groq.com)
 ## 📸 Screenshots
 
 ><img width="1917" height="970" alt="image" src="https://github.com/user-attachments/assets/b2febc41-a113-433b-97c3-19edc69ee271" />
-<img width="1919" height="963" alt="image" src="https://github.com/user-attachments/assets/2611a89e-e51b-422c-ab7b-a555c2a37956" />
+><img width="1917" height="970" alt="image" src="https://github.com/user-attachments/assets/2611a89e-e51b-422c-ab7b-a555c2a37956" />
 
 
 
