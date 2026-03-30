@@ -11,7 +11,7 @@ An AI-powered LinkedIn post generator built with **Streamlit** and **Groq (LLaMA
 
 ## 🚀 Live Demo
 
-👉 [Click here to try the app](https://your-app-link.streamlit.app)
+👉 [Click here to try the app](https://automatic-linkedin-post-generator.streamlit.app/)
 
 > **Note:** You'll need your own [Groq API Key](https://console.groq.com) to generate posts. It's free!
 
